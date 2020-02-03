@@ -1,9 +1,10 @@
 <template>
-  <div>home</div>
+  <div>首页</div>
 </template>
 
 <script>
 export default {
+  name: 'home' // devtools查看组件时  可以看到 对应的name名称
 }
 </script>
 
